@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 2b263026e18a0c243b7638c676fc48ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6488093557916290771
+    second: Mega Duck - Puppet Knight - Puppet Knight_0
+  - first:
+      213: 3754688350565979999
+    second: Mega Duck - Puppet Knight - Puppet Knight_1
+  - first:
+      213: -7360788508532807752
+    second: Mega Duck - Puppet Knight - Puppet Knight_2
+  - first:
+      213: 8269056573900605581
+    second: Mega Duck - Puppet Knight - Puppet Knight_3
+  - first:
+      213: 2496174574501186110
+    second: Mega Duck - Puppet Knight - Puppet Knight_4
+  - first:
+      213: 3798116906978784519
+    second: Mega Duck - Puppet Knight - Puppet Knight_5
+  - first:
+      213: -3361110413612920407
+    second: Mega Duck - Puppet Knight - Puppet Knight_6
+  - first:
+      213: -5742550774771500002
+    second: Mega Duck - Puppet Knight - Puppet Knight_7
+  - first:
+      213: -4179991419524257995
+    second: Mega Duck - Puppet Knight - Puppet Knight_8
+  - first:
+      213: 8023448379737472722
+    second: Mega Duck - Puppet Knight - Puppet Knight_9
+  - first:
+      213: 3180310893932699631
+    second: Mega Duck - Puppet Knight - Puppet Knight_10
+  - first:
+      213: -8372852284963492846
+    second: Mega Duck - Puppet Knight - Puppet Knight_11
+  - first:
+      213: 978429329003538545
+    second: Mega Duck - Puppet Knight - Puppet Knight_12
+  - first:
+      213: -6665807497455561604
+    second: Mega Duck - Puppet Knight - Puppet Knight_13
+  - first:
+      213: 2097189181161734578
+    second: Mega Duck - Puppet Knight - Puppet Knight_14
+  - first:
+      213: 89854504253212273
+    second: Mega Duck - Puppet Knight - Puppet Knight_15
+  - first:
+      213: 1827959576952850648
+    second: Mega Duck - Puppet Knight - Puppet Knight_16
+  - first:
+      213: 842092929784590379
+    second: Mega Duck - Puppet Knight - Puppet Knight_17
+  - first:
+      213: -1070604540251644193
+    second: Mega Duck - Puppet Knight - Puppet Knight_18
+  - first:
+      213: 9155955198261051563
+    second: Mega Duck - Puppet Knight - Puppet Knight_19
+  - first:
+      213: -3011145472577411119
+    second: Mega Duck - Puppet Knight - Puppet Knight_20
+  - first:
+      213: -4594981535516299499
+    second: Mega Duck - Puppet Knight - Puppet Knight_21
+  - first:
+      213: 8481924346569482378
+    second: Mega Duck - Puppet Knight - Puppet Knight_22
+  - first:
+      213: 7047601772803679778
+    second: Mega Duck - Puppet Knight - Puppet Knight_23
+  - first:
+      213: -7593656056301578078
+    second: Mega Duck - Puppet Knight - Puppet Knight_24
+  - first:
+      213: -981360580108637903
+    second: Mega Duck - Puppet Knight - Puppet Knight_25
+  - first:
+      213: -7951906328144876857
+    second: Mega Duck - Puppet Knight - Puppet Knight_26
+  - first:
+      213: -3813672738853352998
+    second: Mega Duck - Puppet Knight - Puppet Knight_27
+  - first:
+      213: -653707216154309256
+    second: Mega Duck - Puppet Knight - Puppet Knight_28
+  - first:
+      213: 1195859849375036638
+    second: Mega Duck - Puppet Knight - Puppet Knight_29
+  - first:
+      213: -516708086571335566
+    second: Mega Duck - Puppet Knight - Puppet Knight_30
+  - first:
+      213: 7602682809257166242
+    second: Mega Duck - Puppet Knight - Puppet Knight_31
+  - first:
+      213: 3761382333348278762
+    second: Mega Duck - Puppet Knight - Puppet Knight_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dec91d27b65a0a50800000000000000
+      internalID: 6488093557916290771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5758c169255b1430800000000000000
+      internalID: 3754688350565979999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7ef12c9d939d990800000000000000
+      internalID: -7360788508532807752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8844f2842791c270800000000000000
+      internalID: 8269056573900605581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a418adc8134a220800000000000000
+      internalID: 2496174574501186110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70530ef143f95b430800000000000000
+      internalID: 3798116906978784519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15cb103efea51d0800000000000000
+      internalID: -3361110413612920407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb915ee7c5e40b0800000000000000
+      internalID: -5742550774771500002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mega Duck - Puppet Knight - Puppet Knight_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537631353ffadf5c0800000000000000
+      internalID: -4179991419524257995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f61b079cb7d246342b41991ba3906e84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mega Duck - Puppet Knight - Puppet Knight_0: 6488093557916290771
+      Mega Duck - Puppet Knight - Puppet Knight_1: 3754688350565979999
+      Mega Duck - Puppet Knight - Puppet Knight_10: 3180310893932699631
+      Mega Duck - Puppet Knight - Puppet Knight_11: -8372852284963492846
+      Mega Duck - Puppet Knight - Puppet Knight_12: 978429329003538545
+      Mega Duck - Puppet Knight - Puppet Knight_13: -6665807497455561604
+      Mega Duck - Puppet Knight - Puppet Knight_14: 2097189181161734578
+      Mega Duck - Puppet Knight - Puppet Knight_15: 89854504253212273
+      Mega Duck - Puppet Knight - Puppet Knight_16: 1827959576952850648
+      Mega Duck - Puppet Knight - Puppet Knight_17: 842092929784590379
+      Mega Duck - Puppet Knight - Puppet Knight_18: -1070604540251644193
+      Mega Duck - Puppet Knight - Puppet Knight_19: 9155955198261051563
+      Mega Duck - Puppet Knight - Puppet Knight_2: -7360788508532807752
+      Mega Duck - Puppet Knight - Puppet Knight_20: -3011145472577411119
+      Mega Duck - Puppet Knight - Puppet Knight_21: -4594981535516299499
+      Mega Duck - Puppet Knight - Puppet Knight_22: 8481924346569482378
+      Mega Duck - Puppet Knight - Puppet Knight_23: 7047601772803679778
+      Mega Duck - Puppet Knight - Puppet Knight_24: -7593656056301578078
+      Mega Duck - Puppet Knight - Puppet Knight_25: -981360580108637903
+      Mega Duck - Puppet Knight - Puppet Knight_26: -7951906328144876857
+      Mega Duck - Puppet Knight - Puppet Knight_27: -3813672738853352998
+      Mega Duck - Puppet Knight - Puppet Knight_28: -653707216154309256
+      Mega Duck - Puppet Knight - Puppet Knight_29: 1195859849375036638
+      Mega Duck - Puppet Knight - Puppet Knight_3: 8269056573900605581
+      Mega Duck - Puppet Knight - Puppet Knight_30: -516708086571335566
+      Mega Duck - Puppet Knight - Puppet Knight_31: 7602682809257166242
+      Mega Duck - Puppet Knight - Puppet Knight_32: 3761382333348278762
+      Mega Duck - Puppet Knight - Puppet Knight_4: 2496174574501186110
+      Mega Duck - Puppet Knight - Puppet Knight_5: 3798116906978784519
+      Mega Duck - Puppet Knight - Puppet Knight_6: -3361110413612920407
+      Mega Duck - Puppet Knight - Puppet Knight_7: -5742550774771500002
+      Mega Duck - Puppet Knight - Puppet Knight_8: -4179991419524257995
+      Mega Duck - Puppet Knight - Puppet Knight_9: 8023448379737472722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
