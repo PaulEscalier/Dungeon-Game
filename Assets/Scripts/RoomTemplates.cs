@@ -55,8 +55,11 @@ public class RoomTemplates : MonoBehaviour
                 return distanceB.CompareTo(distanceA); // Décroissant
             });
             GameObject mostDistantRoom = rooms[0];
+            bool mustIncrementRoomCount = mostDistantRoom.GetComponentInParent<RoomInfos>().isCorridor;
             Destroy(mostDistantRoom.transform.parent.gameObject);
             Instantiate(crossSection,mostDistantRoom.transform.position,Quaternion.identity);
+            if(mustIncrementRoomCount)
+                roomCount++;
 
         }else if(spawners.Length>0 && roomCount<roomObjective && !wallSpawned)
         {

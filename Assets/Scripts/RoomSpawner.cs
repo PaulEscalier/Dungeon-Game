@@ -20,29 +20,39 @@ public class RoomSpawner: MonoBehaviour
     {        
         if(!spawned && templates.roomCount<templates.roomObjective)
         {
+            bool incrementRoomCount = false;
             switch(openingDirection)
             {
                 case 1:
                     rand = Random.Range(0,templates.southRooms.Length);
                     Instantiate(templates.southRooms[rand],transform.position,Quaternion.identity);
+                    if(!templates.southRooms[rand].GetComponent<RoomInfos>().isCorridor)
+                        incrementRoomCount = true;
                     break;
                 case 2:
                     rand = Random.Range(0,templates.northRooms.Length);
                     Instantiate(templates.northRooms[rand],transform.position,Quaternion.identity);
+                    if(!templates.northRooms[rand].GetComponent<RoomInfos>().isCorridor)
+                        incrementRoomCount = true;
                     break;
                 case 3:
                     rand = Random.Range(0,templates.westRooms.Length);
                     Instantiate(templates.westRooms[rand],transform.position,Quaternion.identity);
+                    if(!templates.westRooms[rand].GetComponent<RoomInfos>().isCorridor)
+                        incrementRoomCount = true;
                     break;
                 case 4:
                     rand = Random.Range(0,templates.eastRooms.Length);
                     Instantiate(templates.eastRooms[rand],transform.position,Quaternion.identity);
+                    if(!templates.eastRooms[rand].GetComponent<RoomInfos>().isCorridor)
+                        incrementRoomCount = true;
                     break;
                 default:
                     break;
             }
             spawned = true;
-            templates.roomCount++;
+            if(incrementRoomCount)
+                templates.roomCount++;
         }
     }
     void OnTriggerEnter2D(Collider2D other)
